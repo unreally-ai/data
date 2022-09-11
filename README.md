@@ -1,4 +1,8 @@
 # data
 For storing all the base data needed (train/test, vectors, vocabularies)
 
-> if you upload a file, please add a brief info about what it is used for in this readme!
+The current data can be found in NEW/
+- balanced stance dataset
+- vocabulary
+
+> Everything else is only for testing and reference
